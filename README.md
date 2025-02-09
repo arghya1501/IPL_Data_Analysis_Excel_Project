@@ -45,3 +45,21 @@ This Excel dashboard is designed for cricket analysts, enthusiasts, and sports d
 ## Contributing
 
 Contributions to enhance this analysis are welcome. To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+Please ensure your contributions align with the project's objectives and maintain data accuracy.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- The Board of Control for Cricket in India (BCCI) for organizing the IPL.
+- All players and teams who participated in the 2008 IPL season.
+- Data providers for compiling and sharing the IPL datasets.
