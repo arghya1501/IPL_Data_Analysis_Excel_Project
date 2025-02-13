@@ -10,6 +10,11 @@ This project presents a comprehensive analysis of the Indian Premier League (IPL
 - **Player of the Match (Final):** Yusuf Pathan
 - **Player of the Series:** Shane Watson
 
+## Dashboard
+
+https://github.com/user-attachments/assets/6c0e518b-44e5-481d-aab1-f37d33174292
+
+
 ## Analysis Components
 
 1. **Toss Decision Analysis:**
